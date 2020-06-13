@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "96683603568",
+    "firebase_url": "https://chesskateers.firebaseio.com",
+    "project_id": "chesskateers",
+    "storage_bucket": "chesskateers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96683603568:android:7002bfab5f299ae8c7a6b5",
+        "android_client_info": {
+          "package_name": "com.chesskateers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96683603568-kiod17td4dm3oukbk9h20dk51991en5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chesskateers",
+            "certificate_hash": "dca98d3138440aea0ec50aa5e8a238abc7c0a2c9"
+          }
+        },
+        {
+          "client_id": "96683603568-6fo8bukjmma77tlakt5q6t12dotkkjci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdK4vSH7J0RnNXNSwkZwktzeMbGN2lGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96683603568-6fo8bukjmma77tlakt5q6t12dotkkjci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

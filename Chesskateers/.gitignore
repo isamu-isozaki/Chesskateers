@@ -1,0 +1,15 @@
+Temp/
+Builds/
+Built/
+Library/
+Library/*/*
+Library/*
+Logs/
+obj/
+Packages/
+ProjectSettings/
+Pun*
+Photon*
+*.csproj
+*.dwlt.
+*.txt.
